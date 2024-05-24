@@ -7,7 +7,8 @@ IMC = peso / (altura x altura)<br>
 
 O aplicativo desenvolvido em React oferece a funcionalidade de coletar os dados de peso e altura do usuário e pressionando o botão 'Calcular', é exibido uma tabela com o resultado do índice e situação atual conforme a tabela de classificação das faixas de IMC.<br>
 
-<img src='./public/img.png'><br>
+<img src='./public/img-calc.png'><br><br>
+<img src='./public/img-table.png'><br>
 
 ### TECNOLOGIAS:<br>
 HTML<br>
